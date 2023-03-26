@@ -10,8 +10,6 @@ import org.apache.flink.walkthrough.common.entity.Transaction;
 import org.apache.flink.walkthrough.common.source.TransactionSource;
 import org.apache.log4j.PropertyConfigurator;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
 public class FraudDetectionJob {
 
